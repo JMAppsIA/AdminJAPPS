@@ -1,0 +1,29 @@
+/*
+MAIN COLORS
+*/
+$success-color: #29CB97;
+$warning-color: #FEC400;
+$danger-color: #FE0000;
+$primary-color: linear-gradient(180deg, #679CF6 0%, #4072EE 100%);
+$active-color: linear-gradient(180deg, #679CF6 0%, #4072EE 100%);
+$secondary-color: #DADADA;
+$gray-800: #343a40 !default;
+$gray-300: #dee2e6 !default;
+
+/*
+LIGHT MODE
+*/
+$background-white: #FFFFFF;
+$background-light-white: #F5F6FA;
+$primary-light-text-color: #31394D;
+$secondary-light-text-color: #748AA1;
+
+/*
+DARK MODE
+*/
+$background-dark: #16191C;
+$background-light-dark: #1F2327;
+$primary-dark-text-color: #FFFFFF;
+$secondary-dark-text-color: #748AA1;
+$dark: $gray-800 !default;
+
